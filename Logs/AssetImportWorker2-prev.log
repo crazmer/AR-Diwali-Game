@@ -1,0 +1,344 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.5f1 (8095aa901b9b) revision 8426922'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19043.1288; Version 2009; 64bit' Language: 'en' Physical Memory: 16182 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+E:/UnityProjects/AR Diwali Project
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+59757
+Successfully changed project path to: E:/UnityProjects/AR Diwali Project
+E:/UnityProjects/AR Diwali Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 141.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.5f1 (8095aa901b9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/UnityProjects/AR Diwali Project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX250 (ID=0x1d52)
+    Vendor:   
+    VRAM:     1983 MB
+    Driver:   27.21.14.6259
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56180
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006379 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 83.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.248 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001177 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.843 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.20 seconds
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1439 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.7 MB.
+System memory in use after: 66.8 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1881.
+Total: 2.929800 ms (FindLiveObjects: 0.228900 ms CreateObjectMapping: 0.077700 ms MarkObjects: 2.525500 ms  DeleteObjects: 0.096300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Script/ARObjectplacement.cs
+  artifactKey: Guid(ddd8129977d707e47a004c6a235cf5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/ARObjectplacement.cs using Guid(ddd8129977d707e47a004c6a235cf5e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dfc20da1a6193a8e6dac413646474bb') in 0.078069 seconds
+  Import took 0.085759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.922697 seconds.
+  path: Assets/Material/Plane Color.mat
+  artifactKey: Guid(4c31e173c63d3ae44acd176cf9aeee41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Plane Color.mat using Guid(4c31e173c63d3ae44acd176cf9aeee41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36e2d718ffee3d782d1d337f1ddf6f59') in 1.051759 seconds
+  Import took 1.060719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000479 seconds.
+  path: Assets/Material
+  artifactKey: Guid(86a7fb6da3b659b409ce445153e97516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material using Guid(86a7fb6da3b659b409ce445153e97516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b8654ff6764c8e4c4fc78fcf6ea817a') in 0.017955 seconds
+  Import took 0.024301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.994627 seconds.
+  path: Assets/Material/color.mat
+  artifactKey: Guid(a7888dadbf023d645ad87518a820df92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/color.mat using Guid(a7888dadbf023d645ad87518a820df92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f567f7ce81330fd560b7d7e861bd21c') in 0.050351 seconds
+  Import took 0.057045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.611303 seconds.
+  path: Assets/Material/Cube.prefab
+  artifactKey: Guid(bd304d29e6cebf441949d1fe67aae894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Cube.prefab using Guid(bd304d29e6cebf441949d1fe67aae894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '448631d22be9c740e63c89d830f470fd') in 0.094041 seconds
+  Import took 0.103849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001068 seconds.
+  path: Assets/Material/Cube.prefab
+  artifactKey: Guid(bd304d29e6cebf441949d1fe67aae894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Cube.prefab using Guid(bd304d29e6cebf441949d1fe67aae894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '448631d22be9c740e63c89d830f470fd') in 0.023316 seconds
+  Import took 0.033845 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 41.4 MB.
+System memory in use after: 41.5 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1923.
+Total: 5.848000 ms (FindLiveObjects: 0.365200 ms CreateObjectMapping: 0.150000 ms MarkObjects: 5.307400 ms  DeleteObjects: 0.022900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 142.113782 seconds.
+  path: Assets/Material/color.mat
+  artifactKey: Guid(a7888dadbf023d645ad87518a820df92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/color.mat using Guid(a7888dadbf023d645ad87518a820df92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd18fcff3d997fc76fdc7c506af5dfb50') in 0.083746 seconds
+  Import took 0.097166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.493385 seconds.
+  path: Assets/Material/color.mat
+  artifactKey: Guid(a7888dadbf023d645ad87518a820df92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/color.mat using Guid(a7888dadbf023d645ad87518a820df92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd18fcff3d997fc76fdc7c506af5dfb50') in 0.070391 seconds
+  Import took 0.085142 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 41.3 MB.
+System memory in use after: 41.4 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1923.
+Total: 15.539900 ms (FindLiveObjects: 0.942700 ms CreateObjectMapping: 0.323600 ms MarkObjects: 14.221500 ms  DeleteObjects: 0.044900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1112.715407 seconds.
+  path: Assets/Material/rocket_MAP2.jpg
+  artifactKey: Guid(9ea1d52749851b8478e6f27b63406158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/rocket_MAP2.jpg using Guid(9ea1d52749851b8478e6f27b63406158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4b7246d352874d49ef420cd6873b564') in 0.302121 seconds
+  Import took 0.312364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.423334 seconds.
+  path: Assets/Hrushikesh Jadhav-20211022T072616Z-001
+  artifactKey: Guid(49cea7956e432f34eba734329e0dd50b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hrushikesh Jadhav-20211022T072616Z-001 using Guid(49cea7956e432f34eba734329e0dd50b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be8ff5d47a36ca54bc600373e9989f73') in 0.030284 seconds
+  Import took 0.041482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.170025 seconds.
+  path: Assets/Hrushikesh Jadhav-20211022T072616Z-001/Hrushikesh Jadhav/hrushi_rocket.fbx
+  artifactKey: Guid(0b46c4c9c6602d14987a4eb65095e6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hrushikesh Jadhav-20211022T072616Z-001/Hrushikesh Jadhav/hrushi_rocket.fbx using Guid(0b46c4c9c6602d14987a4eb65095e6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2c355524dda033334d7d61eccde3309') in 2.040917 seconds
+  Import took 2.051330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000416 seconds.
+  path: Assets/Hrushikesh Jadhav-20211022T072616Z-001/Hrushikesh Jadhav/rocket_MAP2.jpg
+  artifactKey: Guid(d913eadd73b2c584a95a7e825788f2a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hrushikesh Jadhav-20211022T072616Z-001/Hrushikesh Jadhav/rocket_MAP2.jpg using Guid(d913eadd73b2c584a95a7e825788f2a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ca6836768d95a9f9aee9db7daec95db') in 0.117090 seconds
+  Import took 0.122766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Hrushikesh Jadhav-20211022T072616Z-001/Hrushikesh Jadhav
+  artifactKey: Guid(a501d05278e1e5c418bed3dfa5f8aef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hrushikesh Jadhav-20211022T072616Z-001/Hrushikesh Jadhav using Guid(a501d05278e1e5c418bed3dfa5f8aef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '795c21eed2e4f4992f664969ccbf3b8c') in 0.010875 seconds
+  Import took 0.015085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 158.539904 seconds.
+  path: Assets/Prefab/AR Plane.prefab
+  artifactKey: Guid(8a1714a79a73f324a8155b406827de7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/AR Plane.prefab using Guid(8a1714a79a73f324a8155b406827de7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f3a626204b7e8a3660d0a34ba1922f5') in 0.047192 seconds
+  Import took 0.062988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000576 seconds.
+  path: Assets/Prefab
+  artifactKey: Guid(179180af99b13484a9de572d726113cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab using Guid(179180af99b13484a9de572d726113cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44bb04cf47ece31d77a099b27757944e') in 0.031963 seconds
+  Import took 0.042369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.838467 seconds.
+  path: Assets/Prefab/hrushi_rocket.prefab
+  artifactKey: Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/hrushi_rocket.prefab using Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb5354644cd4620076da5bf6b8867590') in 0.356213 seconds
+  Import took 0.366631 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 14.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 41.9 MB.
+System memory in use after: 42.0 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1928.
+Total: 13.752000 ms (FindLiveObjects: 0.345200 ms CreateObjectMapping: 0.145800 ms MarkObjects: 13.223200 ms  DeleteObjects: 0.035900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 453.761817 seconds.
+  path: Assets/Prefab/hrushi_rocket.prefab
+  artifactKey: Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/hrushi_rocket.prefab using Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3c187d69e77c57d9a13310d1a392167') in 0.307665 seconds
+  Import took 0.320966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.251302 seconds.
+  path: Assets/Prefab/hrushi_rocket.prefab
+  artifactKey: Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/hrushi_rocket.prefab using Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2784bf4e07cfe2a6293e5a0711088ec') in 0.344501 seconds
+  Import took 0.356942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.980917 seconds.
+  path: Assets/Prefab/hrushi_rocket.prefab
+  artifactKey: Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/hrushi_rocket.prefab using Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '653f76705bdae64b57bf629a339c7a13') in 0.279675 seconds
+  Import took 0.289985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.695210 seconds.
+  path: Assets/Prefab/hrushi_rocket.prefab
+  artifactKey: Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/hrushi_rocket.prefab using Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8857fed670fc4b0736fcb8cebadaf5e2') in 0.255265 seconds
+  Import took 0.266817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.481839 seconds.
+  path: Assets/Prefab/hrushi_rocket.prefab
+  artifactKey: Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/hrushi_rocket.prefab using Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a85147a7fccd8d871405c6c246d12f2') in 0.298133 seconds
+  Import took 0.310523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.011398 seconds.
+  path: Assets/Prefab/hrushi_rocket.prefab
+  artifactKey: Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/hrushi_rocket.prefab using Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19626b240793aad91a02c3a160bd4693') in 0.299191 seconds
+  Import took 0.312143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.760579 seconds.
+  path: Assets/Prefab/hrushi_rocket.prefab
+  artifactKey: Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/hrushi_rocket.prefab using Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70f30938296d60882db1ca2c14246cc9') in 0.318168 seconds
+  Import took 0.329493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.389388 seconds.
+  path: Assets/Prefab/hrushi_rocket.prefab
+  artifactKey: Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/hrushi_rocket.prefab using Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8747b430f01a5ba81420c0cef217789a') in 0.302663 seconds
+  Import took 0.314954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.824476 seconds.
+  path: Assets/Prefab/hrushi_rocket.prefab
+  artifactKey: Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/hrushi_rocket.prefab using Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f9f7ccd9748eff3b5ff1dbe04447c95') in 0.257919 seconds
+  Import took 0.273745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.623939 seconds.
+  path: Assets/Prefab/hrushi_rocket.prefab
+  artifactKey: Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/hrushi_rocket.prefab using Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c1beb55358cf218953badb3295030cc') in 0.248205 seconds
+  Import took 0.263176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.205707 seconds.
+  path: Assets/Prefab/hrushi_rocket.prefab
+  artifactKey: Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/hrushi_rocket.prefab using Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fa7e7a84cc19ca236ced24e683921e8') in 0.251004 seconds
+  Import took 0.262247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.280588 seconds.
+  path: Assets/Prefab/hrushi_rocket.prefab
+  artifactKey: Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/hrushi_rocket.prefab using Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb0418fd56b8c9aaf10e57aca7db658b') in 0.258068 seconds
+  Import took 0.267151 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.620165 seconds.
+  path: Assets/Prefab/hrushi_rocket.prefab
+  artifactKey: Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/hrushi_rocket.prefab using Guid(d2f97ba3ea4f6924eaa514930df7851e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62275ec2dc3463f21dc70bf9d2dd0452') in 0.257263 seconds
+  Import took 0.271734 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 42.0 MB.
+System memory in use after: 42.1 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1928.
+Total: 13.069900 ms (FindLiveObjects: 0.746700 ms CreateObjectMapping: 0.360300 ms MarkObjects: 11.913700 ms  DeleteObjects: 0.044600 ms)
+
